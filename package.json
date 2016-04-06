@@ -1,0 +1,14 @@
+{
+  "name": "artillery-xml-capture",
+  "version": "1.0.0",
+  "description": "XPath capture support for Artillery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassy Veldstra <h@artillery.io>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "libxmljs": "0.17.1"
+  }
+}
