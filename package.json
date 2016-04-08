@@ -1,6 +1,6 @@
 {
   "name": "artillery-xml-capture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "XPath capture support for Artillery",
   "main": "index.js",
   "scripts": {
