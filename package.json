@@ -9,6 +9,6 @@
   "author": "Hassy Veldstra <h@artillery.io>",
   "license": "MPL-2.0",
   "dependencies": {
-    "libxmljs": "0.17.1"
+    "libxmljs": "0.18.7"
   }
 }
